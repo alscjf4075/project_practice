@@ -13,7 +13,7 @@
   <header>
     <div class="header_box">
       <div class="logo">
-        <a href="index.html"><img src="images/logo_white2.png" alt="LOGO"></a>
+        <a href="index.do"><img src="images/logo_white2.png" alt="LOGO"></a>
       </div>
       <ul class="gnb">
         <li><a href="#">About GUCCI</a></li>
